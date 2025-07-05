@@ -39,9 +39,8 @@ Docker Compose
 Uma chave de API do Google Gemini (obtenha em Google AI Studio)
 
 ## Como Executar
-Clone o repositório (se estivesse em um). Como você tem os arquivos, apenas organize-os na estrutura de pastas correta.
+Clone o repositório.
 
-Crie o arquivo de ambiente:
 Copie o conteúdo de .env.example para um novo arquivo chamado .env na raiz do projeto.
 
 cp .env.example .env
